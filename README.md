@@ -5,6 +5,10 @@
 In previous lessons, we looked at properties of individual nodes in a network. In this lesson, we will work with larger chunks of the network, analyzing not just the individuals nodes and connections, but subgraphs and    groups of nodes, and how these groups are related to each other. There are a number of approaches and algorithms which may help us achieve that. We shall focus on a couple of important algorithms that we will put in practice with suitable use cases. 
 
 ## Objectives:
+- Understand and explain the role of community detection techniques in network analysis
+- Describe what are graph components, subgraphs and connected graphs
+- Explain and Implement Girvan Newman Algorithm for community detection
+- Explain and Implement k-Cliques Algorithm for community detection
 
 ## Community Detection
 Real world networks often have community structure. It is characteristic that the groups of nodes are connected denser within themselves and rarely with each other.
